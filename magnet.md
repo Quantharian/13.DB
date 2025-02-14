@@ -13,3 +13,5 @@ magnet:?xt=urn:btih:13D07F3D32579EC135213F1B217C61D3D19DF721&dn=EPL_Amos_del_Nos
 magnet:?xt=urn:btih:F986DB5D30382281995BBFD19227D9D008D2592A&dn=EPL_Salvation&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://www.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=udp://tracker.internetwarriors.net:1337/announce
 
 magnet:?xt=urn:btih:C7359F4739D364C9BDA8DE79B0D9B069DB3ABF06&dn=EPL*Light_Chaser*(Surcaluz)&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://www.torrent.eu.org:451/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=udp://tracker.internetwarriors.net:1337/announce
+
+https://www.4shared.com/s/fDL7ZHl4Aku
